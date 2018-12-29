@@ -1,0 +1,17 @@
+{
+  "name": "spdlog",
+  "environment": "arch",
+  "supportedEnvironments": [
+    "arch"
+  ],
+  "components": {
+    "spdlog": {
+      "defaultConfig": "release",
+      "configurations": [
+        "release"
+      ]
+    }
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
