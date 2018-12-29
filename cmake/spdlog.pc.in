@@ -4,3 +4,4 @@ includedir=${prefix}/include
 Name: @PROJECT_NAME@
 Description: Super fast C++ logging library. 
 Version: @PROJECT_VERSION@
+Cflags: -I${includedir}
